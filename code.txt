@@ -1,3 +1,2 @@
 int x = 5;
-int x = 10;
-int x = 70;
+int x = 70; 
